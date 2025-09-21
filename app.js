@@ -5,3 +5,4 @@ console.log(thisw)
  const payment="payment added";
  console.log(payment);
  console.log("kya bhai sb badhiya");
+ console.logg("bug fixed")
